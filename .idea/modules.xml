@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AI[Class]/.idea/AI[Class].iml" filepath="$PROJECT_DIR$/../AI[Class]/.idea/AI[Class].iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AI[Project].iml" filepath="$PROJECT_DIR$/.idea/AI[Project].iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Django/.idea/Django.iml" filepath="$PROJECT_DIR$/../Django/.idea/Django.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Trials/.idea/Trials.iml" filepath="$PROJECT_DIR$/../Trials/.idea/Trials.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hello.py/.idea/hello.py.iml" filepath="$PROJECT_DIR$/../hello.py/.idea/hello.py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tensorflow/.idea/tensorflow.iml" filepath="$PROJECT_DIR$/../Tensorflow/.idea/tensorflow.iml" />
+    </modules>
+  </component>
+</project>
