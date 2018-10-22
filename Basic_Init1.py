@@ -7,7 +7,7 @@ image_grey=cv.cvtColor(image_variable,cv.COLOR_BGR2GRAY)
 image_cells=[np.hsplit(row,100) for row in np.split(image_grey,50)]
 
 array_variable=np.array(image_cells)
-print("The shape of our cell array"+str(array_variable.shape))
+print("The shape of our cell Array"+str(array_variable.shape))
 
 data_train=array_variable[:,:70].reshape(-1,400).astype(np.float32)
 data_test=array_variable[:,70:100].reshape(-1,400).astype(np.float32)
