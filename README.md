@@ -10,19 +10,19 @@ Currently the accuracy rests at 93.47% for a static image.
 # Process
 The step by step process is explained below for one to understand the code design.
 
-1. Black and White
+## 1. Black and White
 
 ![B&W](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/grey.PNG)
 
-2. Blurred
+## 2. Blurred
 
 ![BLRD](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/blurred.PNG)
 
-3. Canny Edged
+## 3. Canny Edged
 
 ![CE](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/canny.PNG)
 
-4. Contours
+## 4. Contours
 
 ![CC](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/contours.PNG)
 
