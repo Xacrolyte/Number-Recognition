@@ -13,3 +13,20 @@ The step by step process is explained below for one to understand the code desig
 1. Black and White
 
 ![B&W](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/grey.PNG)
+
+2. Blurred
+
+![BLRD](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/blurred.PNG)
+
+3. Canny Edged
+
+![CE](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/canny.PNG)
+
+4. Contours
+
+![CC](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/contours.PNG)
+
+# Result
+The following image shows the first step of number detection i.e detecting the number zero.
+
+![Z](https://github.com/Xacrolyte/Number-Recognition/blob/master/Snaps/0.PNG)
