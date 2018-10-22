@@ -13,6 +13,7 @@
     <orderEntry type="module" module-name="Django" />
     <orderEntry type="module" module-name="AI[Class]" />
     <orderEntry type="module" module-name="tensorflow" />
+    <orderEntry type="module" module-name="Number-Recognition" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
